@@ -1,0 +1,6 @@
+{
+  "name": "Motul GP Mode Qualifiers",
+  "description": "A high-speed quiz microsite testing your MotoGP and Motul knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
